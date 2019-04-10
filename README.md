@@ -80,6 +80,7 @@ Exemplar Biographies
 * http://weareallaweso.me/for_speakershow-to-write-a-compelling-proposal.html
 * https://rckbt.me/2014/01/conference-proposals/
 * http://blogs.tedneward.com/post/speaking-tips-proposals/
+* https://threadreaderapp.com/thread/962782536089956352.html
 * https://www.speakeasyinc.com/delivering-a-superb-conference-talk/
 
 ### Survey 
