@@ -19,11 +19,11 @@ Write down multiple responses to these questions:
 
 The different kind of talks:
 #### Descriptive
-* I want to explore something with you. Needs outcomes.
+I want to explore something with you. Needs outcomes.
 #### Argumentative
-* I want to convince you of something. Needs a thesis.
+I want to convince you of something. Needs a thesis.
 #### Learner
-* I’m new at this and want to share what I learned
+I’m new at this and want to share what I learned
 #### Expert
 I want to share an expert’s perspective
 
@@ -35,25 +35,25 @@ Exemplar Proposals
 
 http://productcampaustin.org/
 
-Whether you already have a product role or are looking for your first job in product management, crafting your resume is hard. In this session, you'll learn the best practices to use, what specific missteps to avoid, and how to clearly show your product skills so companies quickly respond to your resume. We'll also focus on how to highlight your previous experience outside of product management so you can get land a job in product management. This session will include before and after resumes of real people so you can see how the steps described can result in a superior product resume.
+> Whether you already have a product role or are looking for your first job in product management, crafting your resume is hard. In this session, you'll learn the best practices to use, what specific missteps to avoid, and how to clearly show your product skills so companies quickly respond to your resume. We'll also focus on how to highlight your previous experience outside of product management so you can get land a job in product management. This session will include before and after resumes of real people so you can see how the steps described can result in a superior product resume.
 
 
 **The Busy Developer’s Guide to Go**
 
 http://blogs.tedneward.com/post/speaking-tips-proposals/
 
-In the mid-2010’s, Google announced a new programming language, Go, and the collective reaction of most of the programming world was a giant yawn. Yet another language, and even though it came from some serious industry veterans–Brian Kernighan and Rob Pike–it didn’t really seem to be bringing all that much that was new or interesting to the table. By 2015, that tune had changed. Go is now one of the “up-and-comers” in the programming language world, and it owes its success to a variety of factors.
+> In the mid-2010’s, Google announced a new programming language, Go, and the collective reaction of most of the programming world was a giant yawn. Yet another language, and even though it came from some serious industry veterans–Brian Kernighan and Rob Pike–it didn’t really seem to be bringing all that much that was new or interesting to the table. By 2015, that tune had changed. Go is now one of the “up-and-comers” in the programming language world, and it owes its success to a variety of factors.
 
-In this presentation, we’re going to take a hard look at the language, go over what it has (and what it lacks!), what makes it interesting, and get comfortable with some of the syntax basics, as a “first steps” towards building non-trivial Go programs in the future. It’s probably not the last programming language you’ll ever learn, but it is definitely one of the few that you should learn.
+> In this presentation, we’re going to take a hard look at the language, go over what it has (and what it lacks!), what makes it interesting, and get comfortable with some of the syntax basics, as a “first steps” towards building non-trivial Go programs in the future. It’s probably not the last programming language you’ll ever learn, but it is definitely one of the few that you should learn.
 
 
 **The UX of AI**
 
 https://conveyux.com/sessions/the-ux-for-ai/
 
-The application of Artificial Intelligence is still in its infancy. A recent report noted that up to 70% of companies are not doing much with AI & Machine Learning (ML). Adding to this, we have heard time and again from customers that there is still a lot of confusion about how AI and ML can be applied in a way that elevates the human-computer interaction.
+> The application of Artificial Intelligence is still in its infancy. A recent report noted that up to 70% of companies are not doing much with AI & Machine Learning (ML). Adding to this, we have heard time and again from customers that there is still a lot of confusion about how AI and ML can be applied in a way that elevates the human-computer interaction.
 
-In this talk, we will explore how designers, researchers, and product managers can incorporate AI-thinking into their projects. Using insights gathered from enterprise customer research, and lessons learned working with cross-functional stakeholders, attendees will learn about valuable tools, methods, and best practices when developing intelligent digital experiences.
+> In this talk, we will explore how designers, researchers, and product managers can incorporate AI-thinking into their projects. Using insights gathered from enterprise customer research, and lessons learned working with cross-functional stakeholders, attendees will learn about valuable tools, methods, and best practices when developing intelligent digital experiences.
 Using the case study method, Jennifer & Capri will share recent examples that explore Enterprise and Consumer use cases that will prompt the audience to explore how AI & ML might impact existing constructs for UX practice.
 
 ### Objective 4: Write a proposal that meets the criteria described in the Talk Proposal Checklist 
@@ -66,7 +66,7 @@ Using the case study method, Jennifer & Capri will share recent examples that ex
 
 Exemplar Biographies 
 
-**Dan Corbin** is the Sr. Director of Product Management at Return Path and Instructor of Product Management at General Assembly. He’s a Certified Scrum Professional with almost 20 years of product development experience. Dan is also the co-organizer of The Product League and the Agile Austin Product SIG meetups, as well as an instructor at Agile Austin U. 
+**Dan Corbin** is the Sr.  Director of Product Management at Return Path and Instructor of Product Management at General Assembly. He’s a Certified Scrum Professional with almost 20 years of product development experience. Dan is also the co-organizer of The Product League and the Agile Austin Product SIG meetups, as well as an instructor at Agile Austin U. 
 
 **Kim Schlesinger** is Site Reliability Engineer at ReactiveOps. Prior to being an SRE, Kim was an Instructor, Web Developer, and Curriculum Designer for the Full-Stack Immersive Program at Galvanize. Kim loves working at the intersection of tech and adult education.
 
