@@ -68,7 +68,7 @@ Exemplar Biographies
 
 > **Dan Corbin** is the Sr. Director of Product Management at Return Path and Instructor of Product Management at General Assembly. He’s a Certified Scrum Professional with almost 20 years of product development experience. Dan is also the co-organizer of The Product League and the Agile Austin Product SIG meetups, as well as an instructor at Agile Austin U. 
 
-> **Kim Schlesinger** is Site Reliability Engineer at ReactiveOps. Prior to being an SRE, Kim was an Instructor, Web Developer, and Curriculum Designer for the Full-Stack Immersive Program at Galvanize. Kim loves working at the intersection of tech and adult education.
+> **Kim Schlesinger** is a Site Reliability Engineer at ReactiveOps. Prior to being an SRE, Kim was an Instructor, Web Developer, and Curriculum Designer for the Full-Stack Immersive Program at Galvanize. Kim loves working at the intersection of tech and adult education.
 
 > In her spare time, Kim is a CrossFit athlete and she is the Head of Education and Content for Develop Denver, a 2-day conference for developers, designers, strategists and tech leaders.
 
@@ -82,4 +82,4 @@ Exemplar Biographies
 * http://blogs.tedneward.com/post/speaking-tips-proposals/
 
 ### Survey 
-If you attended this workshop in person or remotely, please take [the survey](https://docs.google.com/forms/d/e/1FAIpQLSeG5w-yBIUQ_LAA9CrE0UJZbFUpss5us6ZO95tFDRC7-asB3g/viewform).
+If you attended this workshop in person or remotely, please [take the survey](https://docs.google.com/forms/d/e/1FAIpQLSeG5w-yBIUQ_LAA9CrE0UJZbFUpss5us6ZO95tFDRC7-asB3g/viewform).
