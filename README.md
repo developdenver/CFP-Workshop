@@ -80,3 +80,6 @@ Exemplar Biographies
 * http://weareallaweso.me/for_speakershow-to-write-a-compelling-proposal.html
 * https://rckbt.me/2014/01/conference-proposals/
 * http://blogs.tedneward.com/post/speaking-tips-proposals/
+
+### Survey 
+If you attended this workshop in person or remotely, please take [the survey](https://docs.google.com/forms/d/e/1FAIpQLSeG5w-yBIUQ_LAA9CrE0UJZbFUpss5us6ZO95tFDRC7-asB3g/viewform).
