@@ -66,13 +66,13 @@ Using the case study method, Jennifer & Capri will share recent examples that ex
 
 Exemplar Biographies 
 
-**Dan Corbin** is the Sr.  Director of Product Management at Return Path and Instructor of Product Management at General Assembly. He’s a Certified Scrum Professional with almost 20 years of product development experience. Dan is also the co-organizer of The Product League and the Agile Austin Product SIG meetups, as well as an instructor at Agile Austin U. 
+> **Dan Corbin** is the Sr. Director of Product Management at Return Path and Instructor of Product Management at General Assembly. He’s a Certified Scrum Professional with almost 20 years of product development experience. Dan is also the co-organizer of The Product League and the Agile Austin Product SIG meetups, as well as an instructor at Agile Austin U. 
 
-**Kim Schlesinger** is Site Reliability Engineer at ReactiveOps. Prior to being an SRE, Kim was an Instructor, Web Developer, and Curriculum Designer for the Full-Stack Immersive Program at Galvanize. Kim loves working at the intersection of tech and adult education.
+> **Kim Schlesinger** is Site Reliability Engineer at ReactiveOps. Prior to being an SRE, Kim was an Instructor, Web Developer, and Curriculum Designer for the Full-Stack Immersive Program at Galvanize. Kim loves working at the intersection of tech and adult education.
 
-In her spare time, Kim is a CrossFit athlete and she is the Head of Education and Content for Develop Denver, a 2-day conference for developers, designers, strategists and tech leaders.
+> In her spare time, Kim is a CrossFit athlete and she is the Head of Education and Content for Develop Denver, a 2-day conference for developers, designers, strategists and tech leaders.
 
-**Jennifer Otitigbe** is a User Experience Researcher at Google. She generates insights on how people implement AI and Machine Learning for the Cloud AI team. Her prior professional experience includes; enhancing the user experience of products, services and Information & Communication Technologies (ICT) with an emphasis on inclusive or universal design. She studied engineering and design from RPI, Stanford and MassArt.
+> **Jennifer Otitigbe** is a User Experience Researcher at Google. She generates insights on how people implement AI and Machine Learning for the Cloud AI team. Her prior professional experience includes; enhancing the user experience of products, services and Information & Communication Technologies (ICT) with an emphasis on inclusive or universal design. She studied engineering and design from RPI, Stanford and MassArt.
 
 ### Resources 
 
