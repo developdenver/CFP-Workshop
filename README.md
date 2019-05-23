@@ -18,14 +18,10 @@ Write down multiple responses to these questions:
 ### Objective 2 : Identify at least 4 different kinds of conference talks
 
 The different kind of talks:
-#### Descriptive
-I want to explore something with you. Needs outcomes.
-#### Argumentative
-I want to convince you of something. Needs a thesis.
-#### Learner
-I’m new at this and want to share what I learned
-#### Expert
-I want to share an expert’s perspective
+* **Descriptive**: I want to explore something with you. Needs outcomes.
+* **Argumentative**:I want to convince you of something. Needs a thesis.
+* **Learner**: I’m new at this and want to share what I learned
+* **Expert**:I want to share an expert’s perspective
 
 ### Objective 3: Identify what makes a good talk proposal
 
